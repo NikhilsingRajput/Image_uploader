@@ -142,3 +142,8 @@ form{
     background-color: red;
     color: white;
 }
+.text{
+    color: white;
+    padding-bottom: 1vh;
+    text-decoration: none;
+}
